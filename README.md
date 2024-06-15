@@ -1,4 +1,4 @@
-  <img align="center" src="[https://postimg.cc/xXKhVbtr](https://i.postimg.cc/L87pftPs/github-header-image.png)" />
+  <img align="center" src="https://i.postimg.cc/L87pftPs/github-header-image.png" />
 Hey there! 👋 I'm Aman Kumar
 Welcome to my GitHub profile! I'm passionate about software development and love building things with code. Currently exploring the world of full-stack development and eager to contribute to innovative projects.
 
