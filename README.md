@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 🚀 My Projects
 Featured Projects
+<img align="center" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-online_23-2150898633.jpg?t=st=1718452136~exp=1718455736~hmac=e12ea660f40c17ffa07f7a7d4b9d5607404d597292ec2e7173023005bb65e5bc&w=740"/>
 https://github.com/aman99951?tab=repositories
 
 📚 Skills
