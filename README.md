@@ -24,6 +24,13 @@ B.Sc. in Physics
 Himachal Pradesh University, Class of 2024
 <br><br/>
 🌐 Let's Connect!
+<br><br/>
 LinkedIn
-Email: aman9995199@gmail.com
+<br><br/>
+https://www.linkedin.com/in/aman-kumar-8499aa250/
+<br><br/>
+Email
+<br><br/>
+aman9995199@gmail.com
+<br><br/>
 Feel free to explore my projects and repositories. Let's connect and collaborate on exciting ideas!
