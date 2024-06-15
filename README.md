@@ -12,19 +12,25 @@ Featured Projects
 <p>
 <img height=200 align="center" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-online_23-2150898633.jpg?t=st=1718452136~exp=1718455736~hmac=e12ea660f40c17ffa07f7a7d4b9d5607404d597292ec2e7173023005bb65e5bc&w=740"/>
 </p>
+<br/>
 https://github.com/aman99951?tab=repositories
 
 
-
+<br/>
 📚 Skills
+<br/>
 Frontend: HTML5, CSS3, JavaScript, React.js, Angular.js, JQuery, Next.Js, Astro.Js
 Backend: Python, Django, SQL, MySQL
 Tools: MS Excel, MS Word, MS PowerPoint
+<br/>
 
 🎓 Education
+<br/>
 B.Sc. in Physics
-Himachal Pradesh University, Class of 2024
+Himachal Pradesh University,  2024
+<br/>
 🌐 Let's Connect!
+<br/>
 LinkedIn: Connect with me
 Email: aman9995199@gmail.com
 Feel free to explore my projects and repositories. Let's connect and collaborate on exciting ideas!
