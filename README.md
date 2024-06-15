@@ -10,17 +10,20 @@ Welcome to my GitHub profile! I'm a passionate software developer from Delhi, In
 🚀 Featured Projects
 <br><br/>
 
-<img weidth=600 height=200 align="center" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-online_23-2150898633.jpg?t=st=1718452136~exp=1718455736~hmac=e12ea660f40c17ffa07f7a7d4b9d5607404d597292ec2e7173023005bb65e5bc&w=740"/>
+<img  height=200 align="center" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-online_23-2150898633.jpg?t=st=1718452136~exp=1718455736~hmac=e12ea660f40c17ffa07f7a7d4b9d5607404d597292ec2e7173023005bb65e5bc&w=740"/>
+<br><br/>
 
 Web App Development
 Developed and maintained various web applications, focusing on user-friendly interfaces and efficient backend operations.
 <br><br/>
 📚 Skills & Tools
+<br><br/>
 Frontend: HTML5, CSS3, JavaScript, React.js, Angular.js, JQuery
 Backend: Python, Django, SQL, MySQL
 Tools: MS Excel, MS Word, MS PowerPoint
 <br><br/>
 🎓 Education
+<br><br/>
 B.Sc. in Physics
 Himachal Pradesh University, Class of 2024
 <br><br/>
