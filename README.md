@@ -1,4 +1,4 @@
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+[github-header-image.png](https://postimg.cc/xXKhVbtr)
 
 Hey there! 👋 I'm Aman Kumar
 Welcome to my GitHub profile! I'm passionate about software development and love building things with code. Currently exploring the world of full-stack development and eager to contribute to innovative projects.
