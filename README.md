@@ -25,7 +25,7 @@ Tools: MS Excel, MS Word, MS PowerPoint
 🎓 Education
 <br><br/>
 B.Sc. in Physics
-Himachal Pradesh University, Class of 2024
+Himachal Pradesh University
 <br><br/>
 🌐 Let's Connect!
 <br><br/>
